@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Razan/Desktop/QA/selenium-server-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Razan/.m2/repository/com/github/detro/ghostdriver/phantomjsdriver/1.0.1/phantomjsdriver-1.0.1.jar" sourcepath="C:/Users/Razan/.m2/repository/com/github/detro/ghostdriver/phantomjsdriver/1.0.1/phantomjsdriver-1.0.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.github.detro.ghostdriver"/>
+			<attribute name="maven.artifactId" value="phantomjsdriver"/>
+			<attribute name="maven.version" value="1.0.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
